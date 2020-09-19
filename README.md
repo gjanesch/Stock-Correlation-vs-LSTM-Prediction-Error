@@ -1,0 +1,1 @@
+This code is for a small project intended to train an LSTM on data from a single stock and then see how accurate it could predict other stocks' prices, and compare the accuracy of those predictions over the correlation between the training stock and the other stocks.
